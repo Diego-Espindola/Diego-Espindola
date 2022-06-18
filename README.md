@@ -37,4 +37,4 @@
 - ⚡ Fun facts: <br>I can play nine different instruments
 <br>My favorite subject in school was philosophy and math
 
-“Virtue makes the goal right, practical wisdom the things leading to it” - Aristotle (1144a7–8).
+“The ultimate value of life depends upon awareness and the power of contemplation rather than upon mere survival.” - Aristotle (384-322 BC).
