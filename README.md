@@ -32,8 +32,7 @@
 - 🌱 I’m currently learning python and databases
 - 👯 I’m looking to collaborate on data science projects
 - 🤔 I’m looking for help with professional development
-- 💬 Ask me about math, logic questions, life, music, welfare,   
-- 📫 How to reach me: diegoespindola9404@gmail.com
+- 💬 Ask me about math, logic questions, life, music, ...
 - 😄 Pronouns: he/his
 - ⚡ Fun facts: <br>I can play nine different instruments
 <br>My favorite subject in school was philosophy and math
