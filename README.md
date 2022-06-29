@@ -38,6 +38,9 @@
   <a href="https://shields.io">
   <img src="https://img.shields.io/github/last-commit/Diego-Espindola/Diego-Espindola?label=Profile%20Updated&logo=github" alt="Profile last updated"/>
   </a>
+  <a href="https://badges.pufler.dev">
+  <img src="https://badges.pufler.dev/commits/monthly/Diego-Espindola" alt="Monthly Commits"/>
+  </a>
   <br><br>
 
   ![Snake animation](https://github.com/Diego-Espindola/Diego-Espindola/blob/output/github-contribution-grid-snake.svg)
