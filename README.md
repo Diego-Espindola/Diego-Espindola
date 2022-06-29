@@ -22,9 +22,23 @@
   <a href="https://www.youtube.com/channel/UCBGAfRUOHV9oT2conxvGcYQ/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/diego_espindola.1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discordapp.com/users/Diegoo#7415" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:diegoespindola9404@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:diegoespindola9404@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a>
   <a href="https://www.linkedin.com/in/diego-do-carmo-espindola-204361201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="#"><img src="https://badges.pufler.dev/visits/Diego-Espindola/Diego-Espindola"></a>
+  
+  <br>
+  <a href="https://badges.pufler.dev">
+  <img src="https://badges.pufler.dev/visits/Diego-Espindola/Diego-Espindola">
+  </a>
+  <a href="https://badges.pufler.dev">
+  <img src="https://badges.pufler.dev/years/Diego-Espindola?logo=github" alt="Years on GitHub"/>
+  </a>
+  <a href="https://badges.pufler.dev">
+  <img src="https://badges.pufler.dev/repos/Diego-Espindola?logo=github" alt="Public repositories" />
+  </a>
+  <a href="https://shields.io">
+  <img src="https://img.shields.io/github/last-commit/Diego-Espindola/Diego-Espindola?label=Profile%20Updated&logo=github" alt="Profile last updated"/>
+  </a>
+  <br><br>
 
   ![Snake animation](https://github.com/Diego-Espindola/Diego-Espindola/blob/output/github-contribution-grid-snake.svg)
 </div>
