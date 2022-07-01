@@ -48,7 +48,7 @@
   
   
   
-- 🔭 I’m currently working on ITS Customer Service as a Systems Analyst
+- 🔭 I’m currently working at ITS Customer Service as a Systems Analyst
 - 🌱 I’m currently learning python and databases
 - 👯 I’m looking to collaborate on data science projects
 - 🤔 I’m looking for help with professional development
