@@ -29,6 +29,7 @@
   <a href="https://badges.pufler.dev">
   <img src="https://badges.pufler.dev/visits/Diego-Espindola/Diego-Espindola">
   </a>
+  
   <a href="https://badges.pufler.dev">
   <img src="https://badges.pufler.dev/years/Diego-Espindola?logo=github" alt="Years on GitHub"/>
   </a>
@@ -48,9 +49,10 @@
   
   
   
+  
 - 🔭 I’m currently working at ITS Customer Service as a Systems Analyst
 - 🌱 I’m currently learning python and databases
-- 👯 I’m looking to collaborate on data science projects
+- 👯 I’m looking to collaborate on data science and development projects
 - 🤔 I’m looking for help with professional development
 - 💬 Ask me about math, logic questions, life, music, ...
 - 😄 Pronouns: he/his
