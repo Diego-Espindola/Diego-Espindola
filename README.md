@@ -50,13 +50,12 @@
   
   
   
-- 🔭 I’m currently working at ITS Customer Service as a Systems Analyst
-- 🌱 I’m currently learning python and databases
-- 👯 I’m looking to collaborate on data science and development projects
-- 🤔 I’m looking for help with professional development
+- 🔭 I’m currently working at Betha Sistemas as an Implantation Analyst I
+- 🌱 I’m currently learning python and communication
+- 👯 I’m open to exploring collaboration opportunities in various areas, including data science, development projects, and other tech-related fields.
+- 🧐 I’m interested in expanding my skills and knowledge in areas related to professional development, such as career growth strategies, networking, and industry insights.
 - 💬 Ask me about math, logic questions, life, music, ...
 - 😄 Pronouns: he/his
-- ⚡ Fun facts: <br>I can play nine different instruments
-<br>My favorite subject in school was philosophy and math
+- ⚡ Fun facts: <br>    I love creativity, and my hobbies involve various activities that bring me joy and fulfillment. I am passionate about learning and exploring new things. <br>    I can play ten different instruments. <br>    My favorite subjects in school were philosophy and math.
 
 “The ultimate value of life depends upon awareness and the power of contemplation rather than upon mere survival.” - Aristotle (384-322 BC).
