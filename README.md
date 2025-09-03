@@ -50,7 +50,7 @@
   
   
   
-- 🔭 I’m currently working at UNKNOWN as an Junior FullStack Developer
+- 🔭 I’m currently working at UNKNOWN as a Junior FullStack Developer
 - 🌱 I’m currently learning Angular and NodeJS
 - 👯 I’m open to exploring collaboration opportunities in various areas, including data science, development projects, and other tech-related fields.
 - 🧐 I’m interested in expanding my skills and knowledge in areas related to my professional development, such as career growth strategies, networking, and industry insights.
