@@ -43,8 +43,10 @@
   <img src="https://badges.pufler.dev/commits/monthly/Diego-Espindola" alt="Monthly Commits"/>
   </a>
   <br><br>
-
-  ![Snake animation](https://github.com/Diego-Espindola/Diego-Espindola/blob/output/github-contribution-grid-snake.svg)
+  
+  <picture>
+    <img alt="github contribution grid snake animation" src="https://github.com/Diego-Espindola/Diego-Espindola/blob/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
   
   
