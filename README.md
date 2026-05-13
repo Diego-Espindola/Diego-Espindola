@@ -66,11 +66,11 @@
   
   
   
-- 🔭 I’m currently working at UNKNOWN as a Junior FullStack Developer
-- 🌱 I’m currently learning Angular and NodeJS
+- 🔭 I’m currently working at Essentia Group as a Junior III FullStack Web Developer
+- 🌱 I’m currently learning Clean Code and Architecture
 - 👯 I’m open to exploring collaboration opportunities in various areas, including data science, development projects, and other tech-related fields.
 - 🧐 I’m interested in expanding my skills and knowledge in areas related to my professional development, such as career growth strategies, networking, and industry insights.
 - 💬 Ask me about math, logic questions, life, music, etc...
-- <br>    I love to use my creativity, my hobbies involve various activities that bring me that kind of joy. I am passionate about learning and exploring new things. <br>    I can play tones of different musical instruments. <br>    My favorite subjects in school were philosophy, phisics and math.
+- <br>    I love to use my creativity, my hobbies involve various activities that bring me that kind of joy. I am passionate about learning and exploring new things. <br>    I can play tons of different musical instruments. Nowadays, I am focusing my studies on the violin. <br>    My favorite subjects in school were philosophy, phisics and math.
 
 “The ultimate value of life depends upon awareness and the power of contemplation rather than upon mere survival.” - Aristotle (384-322 BC).
